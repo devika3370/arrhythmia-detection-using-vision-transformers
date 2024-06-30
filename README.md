@@ -29,14 +29,7 @@ This project aims to utilize Vision Transformers (ViTs) for detecting arrhythmia
 The dataset consists of 12-lead ECG images collected from diverse sources, annotated with arrhythmia types by medical experts. Preprocessing techniques will be applied to segment the images into individual leads, ensuring accurate representation of the ECG signals.
 
 Please find the dataset link here: https://data.mendeley.com/datasets/gwbz3fsgp8/2
-Please find the processed data here: https://drive.google.com/drive/folders/1ezLJ8FAF142XAaxf3_vUIgCigu0NT21S?usp=sharing
 
-## Trained Models
-Please find the trained model weights here: https://drive.google.com/drive/folders/1ezLJ8FAF142XAaxf3_vUIgCigu0NT21S?usp=sharing
-
-## Contributors
-- Jessica Marshall (jm5679)
-- Devika Gumaste (dg3370)
 
 ## Organization of the Directory
 ```
@@ -65,12 +58,4 @@ Please find the trained model weights here: https://drive.google.com/drive/folde
         google-vit.ipynb
         swin-tiny.ipynb
 ```
-
-## Evidence of version control 
-Please find the statistics of our version control here: https://github.com/ecbme6040/e6691-2024spring-project-DGJM-dg3370-jm5679/pulse
-
-A snapshot for your reference:
-
-
-<img width="680" alt="image" src="https://github.com/ecbme6040/e6691-2024spring-project-DGJM-dg3370-jm5679/assets/145230946/3386fd2c-f303-46f5-870c-b42d5ae98199">
 
