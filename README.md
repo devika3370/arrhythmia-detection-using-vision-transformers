@@ -36,10 +36,6 @@ Please find the dataset link here: https://data.mendeley.com/datasets/gwbz3fsgp8
 |   .gitignore
 |   README.md
 |   requirements.txt
-|   
-+---.ipynb_checkpoints
-|       data-preprocess-checkpoint.ipynb
-|       k-fold-split-checkpoint.ipynb
 |       
 +---analysis
 |       analysis.ipynb
